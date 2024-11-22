@@ -1,0 +1,82 @@
+.header {
+  display: flex;
+  justify-content: space-between; /* Space out header items */
+  align-items: center; /* Vertically center items */
+  padding: 10px 20px; /* Add some padding */
+  background-color: #2c3e50; /* Dark navy blue */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+  margin: 0; /* Remove margin for better alignment */
+  flex-grow: 1; /* Allow the header title to take available space */
+  text-align: center; /* Center the title */
+  color: #ecf0f1; /* Light gray for contrast */
+}
+
+.profile {
+  display: flex; /* Use flex to align items */
+  align-items: center; /* Center profile items vertically */
+  margin-right: 20px; /* Space between profile and cart */
+  cursor: pointer; /* Change cursor on hover */
+}
+
+.profile-img {
+  width: 40px; /* Adjust size of the profile image */
+  height: 40px; /* Adjust height */
+  border-radius: 50%; /* Make it circular */
+  margin-right: 10px; /* Space between image and dropdown */
+  border: 2px solid #ecf0f1; /* Light gray border for the profile image */
+}
+
+.dropdown {
+  position: absolute;
+  right: 0;
+  top: 50px; /* Adjust based on your header height */
+  background-color: #ffffff; /* White background for dropdown */
+  border: 1px solid #bdc3c7; /* Light gray border */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+.dropdown ul {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+}
+
+.dropdown li {
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Smooth transition for hover */
+}
+
+.dropdown li:hover {
+  background-color: #3498db; /* Bright blue on hover */
+  color: white; /* Change text color to white */
+}
+
+.cart-icon {
+  display: flex;
+  align-items: center;
+  position: relative; /* Needed for the cart count badge */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  text-decoration: none; /* Remove underline from link */
+}
+
+.cart-icon img {
+  width: 30px; /* Adjust size of cart icon */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.cart-count {
+  position: absolute;
+  top: -5px; /* Adjust position for badge */
+  right: -10px; /* Adjust position for badge */
+  background-color: #e74c3c; /* Bright red for the badge */
+  color: white; /* Text color for badge */
+  border-radius: 50%; /* Make it circular */
+  padding: 2px 6px; /* Padding for badge */
+  font-size: 12px; /* Font size for badge */
+  font-weight: bold; /* Make the count stand out */
+}

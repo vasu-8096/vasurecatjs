@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Bike Helmet",
+      "price": 49.99,
+      "image": "path/to/helmet.jpg",
+      "description": "A comfortable and safe bike helmet."
+    },
+    {
+      "id": 2,
+      "name": "Bike Lock",
+      "price": 29.99,
+      "image": "path/to/lock.jpg",
+      "description": "A sturdy bike lock to keep your bike secure."
+    },
+    {
+      "id": 3,
+      "name": "Bike Light",
+      "price": 19.99,
+      "image": "path/to/light.jpg",
+      "description": "Bright LED lights for night riding."
+    },
+    {
+      "id": 4,
+      "name": "Water Bottle",
+      "price": 12.99,
+      "image": "path/to/bottle.jpg",
+      "description": "Stay hydrated while riding."
+    }
+  ]
+  

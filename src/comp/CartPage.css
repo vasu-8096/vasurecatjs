@@ -1,0 +1,58 @@
+.cart-page {
+    padding: 20px;
+    background-color: #f9f9f9; /* Light gray background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    max-width: 600px; /* Maximum width for the cart */
+    margin: 20px auto; /* Center the cart page horizontally */
+}
+
+.cart-page h2 {
+    text-align: left; /* Align the heading to the left */
+    color: #2c3e50; /* Dark navy color */
+    margin-bottom: 20px; /* Space below heading */
+    border-bottom: 2px solid #3498db; /* Blue border below the heading */
+    padding-bottom: 10px; /* Space between heading and border */
+}
+
+.cart-page p {
+    text-align: left; /* Align the empty cart message to the left */
+    color: #7f8c8d; /* Medium gray color */
+    font-size: 1.2em; /* Slightly larger font size */
+}
+
+.cart-page ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
+
+.cart-item {
+    display: flex; /* Use flex for layout */
+    align-items: center; /* Center items vertically */
+    padding: 10px; /* Padding for each item */
+    border-bottom: 1px solid #ddd; /* Divider between items */
+    transition: background-color 0.2s; /* Smooth transition on hover */
+    border: 1px solid #e0e0e0; /* Light gray border around each item */
+    border-radius: 5px; /* Rounded corners for items */
+    margin-bottom: 10px; /* Space between items */
+}
+
+.cart-item:hover {
+    background-color: #f1f1f1; /* Light gray background on hover */
+}
+
+.cart-item img {
+    width: 50px; /* Fixed width for images */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px; /* Rounded corners for images */
+    border: 1px solid #ddd; /* Light gray border around images */
+}
+
+.cart-item div {
+    margin-left: 10px; /* Space between image and text */
+}
+
+.cart-item strong {
+    color: #2c3e50; /* Dark navy color for item name */
+}

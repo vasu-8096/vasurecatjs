@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Action Figure A",
+    "brand": "Toy Brand X",
+    "price": 19.99,
+    "image": "https://m.media-amazon.com/images/I/41GynUOtS8L._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "A detailed action figure for imaginative play."
+  },
+  {
+    "id": 2,
+    "name": "Building Blocks B",
+    "brand": "Toy Brand Y",
+    "price": 29.99,
+    "image": "https://m.media-amazon.com/images/I/71sh-Yt3EmL._SX425_.jpg",
+    "description": "Colorful building blocks for creative construction."
+  },
+  {
+    "id": 3,
+    "name": "Puzzle Game C",
+    "brand": "Toy Brand Z",
+    "price": 24.99,
+    "image": "https://images.pexels.com/photos/4561345/pexels-photo-4561345.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A fun puzzle game to challenge young minds."
+  },
+  {
+    "id": 4,
+    "name": "Remote Control Car D",
+    "brand": "Toy Brand A",
+    "price": 49.99,
+    "image": "https://images.pexels.com/photos/2675694/pexels-photo-2675694.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A fast remote control car for thrilling races."
+  },
+  {
+    "id": 5,
+    "name": "Stuffed Animal E",
+    "brand": "Toy Brand B",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/46224/pexels-photo-46224.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A cuddly stuffed animal for comfort and play."
+  },
+  {
+    "id": 6,
+    "name": "Dollhouse F",
+    "brand": "Toy Brand C",
+    "price": 89.99,
+    "image": "https://images.pexels.com/photos/1643425/pexels-photo-1643425.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A beautifully designed dollhouse for endless adventures."
+  },
+  {
+    "id": 7,
+    "name": "Board Game G",
+    "brand": "Toy Brand D",
+    "price": 34.99,
+    "image": "https://images.pexels.com/photos/566419/pexels-photo-566419.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A classic board game for family fun."
+  },
+  {
+    "id": 8,
+    "name": "Toy Train H",
+    "brand": "Toy Brand E",
+    "price": 54.99,
+    "image": "https://images.pexels.com/photos/2161843/pexels-photo-2161843.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A charming toy train set for imaginative play."
+  },
+  {
+    "id": 9,
+    "name": "Musical Instruments I",
+    "brand": "Toy Brand F",
+    "price": 39.99,
+    "image": "https://images.pexels.com/photos/2834699/pexels-photo-2834699.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A set of instruments to inspire little musicians."
+  },
+  {
+    "id": 10,
+    "name": "Play Kitchen J",
+    "brand": "Toy Brand G",
+    "price": 99.99,
+    "image": "https://images.pexels.com/photos/4588069/pexels-photo-4588069.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A pretend play kitchen for future chefs."
+  },
+  {
+    "id": 11,
+    "name": "Robot Toy K",
+    "brand": "Toy Brand H",
+    "price": 69.99,
+    "image": "https://images.pexels.com/photos/3705117/pexels-photo-3705117.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "An interactive robot toy that responds to commands."
+  },
+  {
+    "id": 12,
+    "name": "Art Supplies L",
+    "brand": "Toy Brand I",
+    "price": 24.99,
+    "image": "https://images.pexels.com/photos/3184261/pexels-photo-3184261.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A complete set of art supplies for creative projects."
+  },
+  {
+    "id": 13,
+    "name": "Outdoor Play Set M",
+    "brand": "Toy Brand J",
+    "price": 79.99,
+    "image": "https://images.pexels.com/photos/1422035/pexels-photo-1422035.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A fun outdoor play set for active kids."
+  },
+  {
+    "id": 14,
+    "name": "Learning Tablet N",
+    "brand": "Toy Brand K",
+    "price": 89.99,
+    "image": "https://images.pexels.com/photos/4199716/pexels-photo-4199716.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "An educational tablet for young learners."
+  },
+  {
+    "id": 15,
+    "name": "Action Figure O",
+    "brand": "Toy Brand L",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/3811894/pexels-photo-3811894.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A fun action figure for superhero fans."
+  },
+  {
+    "id": 16,
+    "name": "Kinetic Sand P",
+    "brand": "Toy Brand M",
+    "price": 14.99,
+    "image": "https://m.media-amazon.com/images/I/41GynUOtS8L._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "A sensory play material that's easy to mold."
+  },
+  {
+    "id": 17,
+    "name": "Remote Control Drone Q",
+    "brand": "Toy Brand N",
+    "price": 129.99,
+    "image": "https://images.pexels.com/photos/2680276/pexels-photo-2680276.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A flying drone for aerial adventures."
+  },
+  {
+    "id": 18,
+    "name": "Memory Game R",
+    "brand": "Toy Brand O",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/4205100/pexels-photo-4205100.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A fun memory game for cognitive development."
+  },
+  {
+    "id": 19,
+    "name": "Glow-in-the-Dark Stars S",
+    "brand": "Toy Brand P",
+    "price": 9.99,
+    "image": "https://images.pexels.com/photos/2062845/pexels-photo-2062845.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Stars that glow in the dark for room decoration."
+  },
+  {
+    "id": 20,
+    "name": "Water Gun T",
+    "brand": "Toy Brand Q",
+    "price": 14.99,
+    "image": "https://images.pexels.com/photos/1388100/pexels-photo-1388100.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A fun water gun for summer play."
+  }
+]

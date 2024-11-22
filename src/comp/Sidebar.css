@@ -1,0 +1,36 @@
+.sidebar {
+  width: 200px; /* Adjust width as needed */
+  background-color: #34495e; /* Dark blue-gray */
+  color: #ecf0f1; /* Light gray text for contrast */
+  padding: 20px;
+  border-radius: 8px; /* Rounded corners for a modern look */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+.sidebar h2 {
+  margin: 0 0 20px;
+  color: #1abc9c; /* Teal for the heading */
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 10px 0;
+  padding: 10px; /* Add padding for clickable areas */
+  border-radius: 5px; /* Rounded corners for list items */
+  transition: background-color 0.3s; /* Smooth transition for hover */
+  color: #ecf0f1; /* Light gray text for list items */
+}
+
+.sidebar li:hover {
+  background-color: #2980b9; /* Darker blue on hover */
+  color: #ffffff; /* White text on hover */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.sidebar li:active {
+  background-color: #3498db; /* Bright blue when clicked */
+}

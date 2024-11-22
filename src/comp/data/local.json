@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Mountain Bike A",
+      "brand": "Brand X",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/150?text=Mountain+Bike+A",
+      "description": "A rugged mountain bike perfect for off-road trails."
+    },
+    {
+      "id": 2,
+      "name": "Road Bike B",
+      "brand": "Brand Y",
+      "price": 899.99,
+      "image": "https://via.placeholder.com/150?text=Road+Bike+B",
+      "description": "A lightweight road bike designed for speed."
+    },
+    {
+      "id": 3,
+      "name": "Hybrid Bike C",
+      "brand": "Brand Z",
+      "price": 699.99,
+      "image": "https://via.placeholder.com/150?text=Hybrid+Bike+C",
+      "description": "A versatile hybrid bike for city and trail."
+    },
+    {
+      "id": 4,
+      "name": "Electric Bike D",
+      "brand": "Brand A",
+      "price": 1299.99,
+      "image": "https://via.placeholder.com/150?text=Electric+Bike+D",
+      "description": "An electric bike for easy commuting."
+    },
+    {
+      "id": 5,
+      "name": "BMX Bike E",
+      "brand": "Brand B",
+      "price": 349.99,
+      "image": "https://via.placeholder.com/150?text=BMX+Bike+E",
+      "description": "A fun BMX bike for tricks and stunts."
+    },
+    {
+      "id": 6,
+      "name": "Mountain Bike F",
+      "brand": "Brand C",
+      "price": 599.99,
+      "image": "https://via.placeholder.com/150?text=Mountain+Bike+F",
+      "description": "A durable mountain bike for adventurous rides."
+    },
+    {
+      "id": 7,
+      "name": "Road Bike G",
+      "brand": "Brand D",
+      "price": 749.99,
+      "image": "https://via.placeholder.com/150?text=Road+Bike+G",
+      "description": "A performance road bike for serious cyclists."
+    },
+    {
+      "id": 8,
+      "name": "Hybrid Bike H",
+      "brand": "Brand E",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/150?text=Hybrid+Bike+H",
+      "description": "An affordable hybrid bike for casual rides."
+    },
+    {
+      "id": 9,
+      "name": "Electric Bike I",
+      "brand": "Brand F",
+      "price": 1399.99,
+      "image": "https://via.placeholder.com/150?text=Electric+Bike+I",
+      "description": "A high-performance electric bike for long distances."
+    },
+    {
+      "id": 10,
+      "name": "BMX Bike J",
+      "brand": "Brand G",
+      "price": 299.99,
+      "image": "https://via.placeholder.com/150?text=BMX+Bike+J",
+      "description": "A sturdy BMX bike for young riders."
+    },
+    {
+      "id": 11,
+      "name": "Mountain Bike K",
+      "brand": "Brand H",
+      "price": 699.99,
+      "image": "https://via.placeholder.com/150?text=Mountain+Bike+K",
+      "description": "A mountain bike with excellent shock absorption."
+    },
+    {
+      "id": 12,
+      "name": "Road Bike L",
+      "brand": "Brand I",
+      "price": 849.99,
+      "image": "https://via.placeholder.com/150?text=Road+Bike+L",
+      "description": "A sleek road bike for fast rides."
+    },
+    {
+      "id": 13,
+      "name": "Hybrid Bike M",
+      "brand": "Brand J",
+      "price": 599.99,
+      "image": "https://via.placeholder.com/150?text=Hybrid+Bike+M",
+      "description": "A hybrid bike with comfortable seating."
+    },
+    {
+      "id": 14,
+      "name": "Electric Bike N",
+      "brand": "Brand K",
+      "price": 1499.99,
+      "image": "https://via.placeholder.com/150?text=Electric+Bike+N",
+      "description": "A premium electric bike with a powerful motor."
+    },
+    {
+      "id": 15,
+      "name": "BMX Bike O",
+      "brand": "Brand L",
+      "price": 329.99,
+      "image": "https://via.placeholder.com/150?text=BMX+Bike+O",
+      "description": "A lightweight BMX bike for tricks."
+    },
+    {
+      "id": 16,
+      "name": "Mountain Bike P",
+      "brand": "Brand M",
+      "price": 759.99,
+      "image": "https://via.placeholder.com/150?text=Mountain+Bike+P",
+      "description": "A reliable mountain bike for any terrain."
+    },
+    {
+      "id": 17,
+      "name": "Road Bike Q",
+      "brand": "Brand N",
+      "price": 799.99,
+      "image": "https://via.placeholder.com/150?text=Road+Bike+Q",
+      "description": "A road bike with a lightweight frame."
+    },
+    {
+      "id": 18,
+      "name": "Hybrid Bike R",
+      "brand": "Brand O",
+      "price": 549.99,
+      "image": "https://via.placeholder.com/150?text=Hybrid+Bike+R",
+      "description": "A comfortable hybrid bike for city commuting."
+    },
+    {
+      "id": 19,
+      "name": "Electric Bike S",
+      "brand": "Brand P",
+      "price": 1599.99,
+      "image": "https://via.placeholder.com/150?text=Electric+Bike+S",
+      "description": "An advanced electric bike with long battery life."
+    },
+    {
+      "id": 20,
+      "name": "BMX Bike T",
+      "brand": "Brand Q",
+      "price": 349.99,
+      "image": "https://via.placeholder.com/150?text=BMX+Bike+T",
+      "description": "A tough BMX bike designed for young riders."
+    }
+  ]
+  
