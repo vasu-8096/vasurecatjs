@@ -1,162 +1,162 @@
 [
   {
     "id": 1,
-    "name": "Action Figure A",
-    "brand": "Toy Brand X",
-    "price": 19.99,
-    "image": "https://m.media-amazon.com/images/I/41GynUOtS8L._SX300_SY300_QL70_FMwebp_.jpg",
-    "description": "A detailed action figure for imaginative play."
+    "name": "Royal Enfield Bear 650",
+    "brand": "Royal Enfield",
+    "price": 429999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/07/63203_2022_Keeway_K-Light_250V_1_468x263.jpg",
+    "description": "A powerful cruiser bike designed for long-distance rides."
   },
   {
     "id": 2,
-    "name": "Building Blocks B",
-    "brand": "Toy Brand Y",
-    "price": 29.99,
-    "image": "https://m.media-amazon.com/images/I/71sh-Yt3EmL._SX425_.jpg",
-    "description": "Colorful building blocks for creative construction."
+    "name": "Honda SP 125",
+    "brand": "Honda",
+    "price": 219999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/06/62810_2022_Bajaj_Pulsar_N160_5_468x263.jpg",
+    "description": "A fuel-efficient commuter bike with modern features."
   },
   {
     "id": 3,
-    "name": "Puzzle Game C",
-    "brand": "Toy Brand Z",
-    "price": 24.99,
-    "image": "https://images.pexels.com/photos/4561345/pexels-photo-4561345.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A fun puzzle game to challenge young minds."
+    "name": "TVS Raider 125",
+    "brand": "TVS",
+    "price": 646999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/07/63200_2022_Suzuki_Katana_1_468x263.jpg",
+    "description": "A sporty and stylish bike for daily commuting."
   },
   {
     "id": 4,
-    "name": "Remote Control Car D",
-    "brand": "Toy Brand A",
-    "price": 49.99,
-    "image": "https://images.pexels.com/photos/2675694/pexels-photo-2675694.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A fast remote control car for thrilling races."
+    "name": "Yamaha MT 15 V2",
+    "brand": "Yamaha",
+    "price": 255999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/05/62627_2022_Triumph_Tiger_1200_3_468x263.jpg",
+    "description": "A high-performance naked street bike with bold styling."
   },
   {
     "id": 5,
-    "name": "Stuffed Animal E",
-    "brand": "Toy Brand B",
-    "price": 19.99,
-    "image": "https://images.pexels.com/photos/46224/pexels-photo-46224.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A cuddly stuffed animal for comfort and play."
+    "name": "TVS Jupiter",
+    "brand": "TVS",
+    "price": 493999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/04/61655_2022_BMW_F850_GS_468x263.jpg",
+    "description": "A reliable scooter, great for city commuting."
   },
   {
     "id": 6,
-    "name": "Dollhouse F",
-    "brand": "Toy Brand C",
-    "price": 89.99,
-    "image": "https://images.pexels.com/photos/1643425/pexels-photo-1643425.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A beautifully designed dollhouse for endless adventures."
+    "name": "Royal Enfield Hunter 350",
+    "brand": "Royal Enfield",
+    "price": 348999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/01/61496_2022_Yezdi_Adventure_6_468x263.jpg",
+    "description": "A compact, rugged bike designed for urban rides."
   },
   {
     "id": 7,
-    "name": "Board Game G",
-    "brand": "Toy Brand D",
-    "price": 34.99,
-    "image": "https://images.pexels.com/photos/566419/pexels-photo-566419.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A classic board game for family fun."
+    "name": "Royal Enfield Classic 350",
+    "brand": "Royal Enfield",
+    "price": 124999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/12/61379_2022_Harley-Davidson_Sportster-S_1_468x263.jpg",
+    "description": "An iconic bike that blends classic style with modern performance."
   },
   {
     "id": 8,
-    "name": "Toy Train H",
-    "brand": "Toy Brand E",
-    "price": 54.99,
-    "image": "https://images.pexels.com/photos/2161843/pexels-photo-2161843.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A charming toy train set for imaginative play."
+    "name": "Bajaj Pulsar N125",
+    "brand": "Bajaj",
+    "price": 138999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/09/60890_2022_TVS_Apache_RR-310-STD_1_468x263.jpg",
+    "description": "A lightweight and powerful bike ideal for beginners."
   },
   {
     "id": 9,
-    "name": "Musical Instruments I",
-    "brand": "Toy Brand F",
-    "price": 39.99,
-    "image": "https://images.pexels.com/photos/2834699/pexels-photo-2834699.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A set of instruments to inspire little musicians."
+    "name": "Royal Enfield Meteor 350",
+    "brand": "Royal Enfield",
+    "price": 204999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/07/60536_2021_Hero_Maestro_Edge_125_468x263.jpg",
+    "description": "A cruiser bike with classic styling and a smooth ride."
   },
   {
     "id": 10,
-    "name": "Play Kitchen J",
-    "brand": "Toy Brand G",
-    "price": 99.99,
-    "image": "https://images.pexels.com/photos/4588069/pexels-photo-4588069.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A pretend play kitchen for future chefs."
+    "name": "Honda CB200X",
+    "brand": "Honda",
+    "price": 198999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/06/59585_2021_Ducati_Panigale_V4_1_468x263.jpg",
+    "description": "A compact adventure bike built for city and trail."
   },
   {
     "id": 11,
-    "name": "Robot Toy K",
-    "brand": "Toy Brand H",
-    "price": 69.99,
-    "image": "https://images.pexels.com/photos/3705117/pexels-photo-3705117.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "An interactive robot toy that responds to commands."
+    "name": "TVS Apache RTR 160",
+    "brand": "TVS",
+    "price": 154999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/01/61496_2022_Yezdi_Adventure_6_468x263.jpg",
+    "description": "A street-focused bike with high performance and agility."
   },
   {
     "id": 12,
-    "name": "Art Supplies L",
-    "brand": "Toy Brand I",
-    "price": 24.99,
-    "image": "https://images.pexels.com/photos/3184261/pexels-photo-3184261.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A complete set of art supplies for creative projects."
+    "name": "Bajaj Avenger Street 160",
+    "brand": "Bajaj",
+    "price": 169999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/06/62810_2022_Bajaj_Pulsar_N160_5_468x263.jpg",
+    "description": "A cruiser with a relaxed riding posture and comfortable seating."
   },
   {
     "id": 13,
-    "name": "Outdoor Play Set M",
-    "brand": "Toy Brand J",
-    "price": 79.99,
-    "image": "https://images.pexels.com/photos/1422035/pexels-photo-1422035.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A fun outdoor play set for active kids."
+    "name": "Yamaha FZ S V3",
+    "brand": "Yamaha",
+    "price": 179999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/07/63203_2022_Keeway_K-Light_250V_1_468x263.jpg",
+    "description": "A muscular bike with street-fighter styling."
   },
   {
     "id": 14,
-    "name": "Learning Tablet N",
-    "brand": "Toy Brand K",
-    "price": 89.99,
-    "image": "https://images.pexels.com/photos/4199716/pexels-photo-4199716.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "An educational tablet for young learners."
+    "name": "Royal Enfield Himalayan",
+    "brand": "Royal Enfield",
+    "price": 214999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/07/63200_2022_Suzuki_Katana_1_468x263.jpg",
+    "description": "An adventure touring bike for off-road expeditions."
   },
   {
     "id": 15,
-    "name": "Action Figure O",
-    "brand": "Toy Brand L",
-    "price": 19.99,
-    "image": "https://images.pexels.com/photos/3811894/pexels-photo-3811894.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A fun action figure for superhero fans."
+    "name": "Hero Splendor Plus",
+    "brand": "Hero",
+    "price": 599999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/05/62627_2022_Triumph_Tiger_1200_3_468x263.jpg",
+    "description": "A highly popular and fuel-efficient commuter bike."
   },
   {
     "id": 16,
-    "name": "Kinetic Sand P",
-    "brand": "Toy Brand M",
-    "price": 14.99,
-    "image": "https://m.media-amazon.com/images/I/41GynUOtS8L._SX300_SY300_QL70_FMwebp_.jpg",
-    "description": "A sensory play material that's easy to mold."
+    "name": "Hero Glamour",
+    "brand": "Hero",
+    "price": 769999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/04/61655_2022_BMW_F850_GS_468x263.jpg",
+    "description": "A stylish commuter bike with a comfortable ride."
   },
   {
     "id": 17,
-    "name": "Remote Control Drone Q",
-    "brand": "Toy Brand N",
-    "price": 129.99,
-    "image": "https://images.pexels.com/photos/2680276/pexels-photo-2680276.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A flying drone for aerial adventures."
+    "name": "Bajaj CT 100",
+    "brand": "Bajaj",
+    "price": 499999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/06/59585_2021_Ducati_Panigale_V4_1_468x263.jpg",
+    "description": "An affordable and durable bike for daily commuting."
   },
   {
     "id": 18,
-    "name": "Memory Game R",
-    "brand": "Toy Brand O",
-    "price": 19.99,
-    "image": "https://images.pexels.com/photos/4205100/pexels-photo-4205100.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A fun memory game for cognitive development."
+    "name": "TVS Star City Plus",
+    "brand": "TVS",
+    "price": 629999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/06/62810_2022_Bajaj_Pulsar_N160_5_468x263.jpg",
+    "description": "A commuter bike with modern styling and fuel efficiency."
   },
   {
     "id": 19,
-    "name": "Glow-in-the-Dark Stars S",
-    "brand": "Toy Brand P",
-    "price": 9.99,
-    "image": "https://images.pexels.com/photos/2062845/pexels-photo-2062845.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "Stars that glow in the dark for room decoration."
+    "name": "Honda Activa 6G",
+    "brand": "Honda",
+    "price": 749999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/09/60890_2022_TVS_Apache_RR-310-STD_1_468x263.jpg",
+    "description": "A trusted and popular scooter for city commuting."
   },
   {
     "id": 20,
-    "name": "Water Gun T",
-    "brand": "Toy Brand Q",
-    "price": 14.99,
-    "image": "https://images.pexels.com/photos/1388100/pexels-photo-1388100.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "description": "A fun water gun for summer play."
+    "name": "Yamaha R15 V4",
+    "brand": "Yamaha",
+    "price": 189999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/12/61379_2022_Harley-Davidson_Sportster-S_1_468x263.jpg",
+    "description": "A race-inspired bike with excellent handling and speed."
   }
 ]
